@@ -1,1 +1,1 @@
-# mw
+Run with `npm start`
