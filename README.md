@@ -1,3 +1,3 @@
-#MiSTer Wizard
+# MiSTer Wizard
 
 Run with `npm start`
