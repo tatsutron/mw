@@ -1,0 +1,20 @@
+{
+  "name": "mw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "sudo node --max-old-space-size=4096 .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "drivelist": "^9.0.0",
+    "node-wget-promise": "^0.1.6",
+    "readline-sync": "^1.4.10",
+    "rimraf": "^3.0.2",
+    "unrar-promise": "^2.0.1",
+    "uuid": "^8.2.0"
+  }
+}
